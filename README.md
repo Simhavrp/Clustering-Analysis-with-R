@@ -1,6 +1,6 @@
 # Clustering-Analysis-with-R
 
-This R script performs clustering analysis on a dataset using K-means clustering and hierarchical clustering techniques. The script reads an Excel file, preprocesses the data, performs clustering, and evaluates the clustering quality using silhouette scores.
+This R script performs clustering analysis on a "mines" dataset using K-means clustering and hierarchical clustering techniques. The script reads an Excel file, preprocesses the data, performs clustering, and evaluates the clustering quality using silhouette scores.
 
 Requirements:
 
